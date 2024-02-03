@@ -1,3 +1,3 @@
-const namedy = "Azizbek"
+const namedo = "Azizbek"
 
-console.log(namedy);
+console.log(namedo);
